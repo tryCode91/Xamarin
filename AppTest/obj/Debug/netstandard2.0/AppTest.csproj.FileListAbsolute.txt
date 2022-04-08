@@ -1,0 +1,15 @@
+C:\Users\petru\Downloads\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.deps.json
+C:\Users\petru\Downloads\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.dll
+C:\Users\petru\Downloads\AppTest\AppTest\bin\Debug\netstandard2.0\ref\AppTest.dll
+C:\Users\petru\Downloads\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.pdb
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.csproj.AssemblyReference.cache
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.AssemblyInfo.cs
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.dll
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\ref\AppTest.dll
+C:\Users\petru\Downloads\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.pdb
